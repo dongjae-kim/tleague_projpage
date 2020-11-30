@@ -75,7 +75,7 @@ python3 -m distladder3.bin.play_vs_remote_agent \
 to start the AI,
 where the arg `--player_name_path_config` determines an agent by its name (TStarBotX), 
 path (`/your/path/to/SC2AgentsZoo2/agent_TLeagueFormal14/`), 
-and config (`/your/path/to/SC2AgentsZoo2/agent_TLeagueFormal14/`) in comma separated value.
+and config (`/your/path/to/the/config/file.ini`) in comma separated value.
 
 The `*.ini` config file specifies more detailed args for the agent, 
 e.g., 
